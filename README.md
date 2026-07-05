@@ -1,87 +1,141 @@
-# 🐍 CodeAlpha Python Programming Internship
+# 🐍 CodeAlpha Python Projects
 
-## 📌 Overview
+Welcome to my **CodeAlpha Python Projects** repository!
 
-This repository contains the Python Programming projects completed as part of the CodeAlpha Internship Program. These projects demonstrate fundamental Python programming concepts such as loops, conditional statements, functions, dictionaries, file handling, and user interaction.
-
----
-
-## 📂 Projects
-
-### 🎮 1. Hangman Game
-
-A text-based Hangman game where the player guesses a hidden word one letter at a time.
-
-**Features**
-- Random word selection
-- 6 incorrect guesses allowed
-- User-friendly console interface
-
-**Technologies**
-- Python
-- Random Module
+This repository contains three beginner-friendly Python projects that I completed as part of my **CodeAlpha Python Programming Internship**. These projects helped me strengthen my understanding of Python programming, problem-solving, and user interaction through console-based applications.
 
 ---
 
-### 📈 2. Stock Portfolio Tracker
+# 📂 Repository Structure
 
-A simple stock investment calculator that computes the total investment value based on stock price and quantity.
-
-**Features**
-- Hardcoded stock prices
-- User input
-- Investment calculation
-- Saves report to a text file
-
-**Technologies**
-- Python
-- File Handling
-
----
-
-### 🤖 3. Basic Chatbot
-
-A rule-based chatbot capable of responding to simple user queries.
-
-**Features**
-- Interactive conversation
-- Multiple predefined responses
-- Exit command
-
-**Technologies**
-- Python
-
----
-
-## 🚀 How to Run
-
-1. Install Python 3.x
-2. Download or clone this repository.
-3. Open the desired project folder.
-4. Run the program using:
-
-```bash
-python filename.py
+```
+CodeAlpha-Python-Projects
+│
+├── README.md
+│
+├── Hangman Game
+│   ├── hangman.py
+│   └── screenshot.png
+│
+├── Stock Portfolio Tracker
+│   ├── stock_portfolio.py
+│   └── screenshot.png
+│
+└── Basic Chatbot
+    ├── chatbot.py
+    └── screenshot.png
 ```
 
 ---
 
-## 🛠 Skills Demonstrated
+# 🚀 Projects Included
 
-- Python Programming
-- Problem Solving
-- Loops
-- Conditional Statements
-- Functions
-- Dictionaries
-- Lists
-- Strings
-- File Handling
+## 🎮 1. Hangman Game
+
+### 📌 Description
+
+A classic word guessing game where the player attempts to guess a hidden word one letter at a time before running out of chances.
+
+### ✨ Features
+
+- Random word selection
+- Letter-by-letter guessing
+- Tracks incorrect guesses
+- Win/Lose messages
+- Beginner-friendly Python logic
+
+### 📸 Screenshot
+
+![Hangman Game](Hangman%20Game/screenshot.png)
 
 ---
 
-## 👩‍💻 Author
+## 📈 2. Stock Portfolio Tracker
 
-**Junuru Joshna**
+### 📌 Description
 
-Completed as part of the CodeAlpha Python Programming Internship.
+A Python application that calculates the total value of a stock portfolio based on stock prices and quantities entered by the user.
+
+### ✨ Features
+
+- User input for stock names
+- Quantity and price calculations
+- Portfolio value calculation
+- Simple financial analysis
+
+### 📸 Screenshot
+
+![Stock Portfolio](Stock%20Portfolio%20Tracker/screenshot.png)
+
+---
+
+## 🤖 3. Basic Chatbot
+
+### 📌 Description
+
+A simple rule-based chatbot capable of responding to common greetings and basic user questions.
+
+### ✨ Features
+
+- Interactive conversation
+- Greeting responses
+- Basic predefined replies
+- Easy to customize
+
+### 📸 Screenshot
+
+![Chatbot](Basic%20Chatbot/screenshot.png)
+
+---
+
+# 🛠 Technologies Used
+
+- Python 3
+- Visual Studio Code
+- Command Prompt / Terminal
+
+---
+
+# ▶️ How to Run
+
+1. Clone this repository
+
+```
+git clone https://github.com/yourusername/CodeAlpha-Python-Projects.git
+```
+
+2. Navigate to the project folder
+
+```
+cd "Hangman Game"
+```
+
+3. Run the Python file
+
+```
+python hangman.py
+```
+
+Repeat the same process for the other projects.
+
+---
+
+# 📚 Skills Demonstrated
+
+- Python Programming
+- Conditional Statements
+- Loops
+- Functions
+- Lists & Dictionaries
+- User Input Handling
+- Problem Solving
+- Console Application Development
+
+---
+
+# 👩‍💻 Author
+
+**Joshna Junuru**
+---
+
+⭐ If you found these projects helpful, feel free to explore the repository!
