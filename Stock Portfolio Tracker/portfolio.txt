@@ -1,0 +1,6 @@
+Stock Portfolio Report
+----------------------
+Stock: AAPL
+Price: $180
+Quantity: 5
+Total Investment: $900
