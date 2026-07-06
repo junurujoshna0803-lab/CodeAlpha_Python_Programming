@@ -1,15 +1,15 @@
-# 🐍 CodeAlpha Python Projects
+# 🐍 Python Projects
 
-Welcome to my **CodeAlpha Python Projects** repository!
+Welcome to my **Python Projects** repository!
 
-This repository contains three beginner-friendly Python projects that I completed as part of my **CodeAlpha Python Programming Internship**. These projects helped me strengthen my understanding of Python programming, problem-solving, and user interaction through console-based applications.
+This repository contains three beginner-friendly Python projects that I completed as part of my **Python Programming Internship**. These projects helped me strengthen my understanding of Python programming, problem-solving, and user interaction through console-based applications.
 
 ---
 
 # 📂 Repository Structure
 
 ```
-CodeAlpha-Python-Projects
+Python-Projects
 │
 ├── README.md
 │
